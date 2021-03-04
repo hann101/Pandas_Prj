@@ -1,0 +1,24 @@
+Item Number,Description,Supplier,Cost,Date,files,sheet
+1234,Card 1,Supplier A,1100.0,2013-06-02 00:00:00,suppliers.xls,suppliers_2013
+1234,Widget 1,Supplier A,1100.0,2014-06-02 00:00:00,suppliers.xls,suppliers_2014
+1234,Items 1,Supplier A,1100.0,2015-06-02 00:00:00,suppliers.xlsx,suppliers_2013
+1234,Widget 1,Supplier A,1100.0,2014-06-02 00:00:00,suppliers.xlsx,suppliers_2014
+1234,Widget 1,Supplier A,1100.0,6/2/2016,suppliers_2016.csv,
+2345,Card 2,Supplier A,2300.0,2013-06-17 00:00:00,suppliers.xls,suppliers_2013
+2345,Widget 2,Supplier A,2300.0,2014-06-17 00:00:00,suppliers.xls,suppliers_2014
+2345,Items 2,Supplier A,2300.0,2015-06-17 00:00:00,suppliers.xlsx,suppliers_2013
+2345,Widget 2,Supplier A,2300.0,2014-06-17 00:00:00,suppliers.xlsx,suppliers_2014
+2345,Widget 2,Supplier A,2300.0,6/17/2016,suppliers_2016.csv,
+4567,Card 4,Supplier B,1300.0,2013-07-04 00:00:00,suppliers.xls,suppliers_2013
+4567,Widget 4,Supplier B,1300.0,2014-07-04 00:00:00,suppliers.xls,suppliers_2014
+4567,Widget 4,Supplier B,1300.0,2014-07-04 00:00:00,suppliers.xlsx,suppliers_2014
+4567,Widget 4,Supplier B,1300.0,7/4/2016,suppliers_2016.csv,
+6789,Card 6,Supplier C,1175.0,2013-07-23 00:00:00,suppliers.xls,suppliers_2013
+6789,Widget 6,Supplier C,1175.0,2014-07-23 00:00:00,suppliers.xls,suppliers_2014
+6789,Widget 6,Supplier C,1175.0,2014-07-23 00:00:00,suppliers.xlsx,suppliers_2014
+6789,Widget 6,Supplier C,1175.0,7/23/2016,suppliers_2016.csv,
+7890,Card 7,Supplier C,1200.0,2013-07-27 00:00:00,suppliers.xls,suppliers_2013
+7890,Widget 7,Supplier C,1200.0,2014-07-27 00:00:00,suppliers.xls,suppliers_2014
+7890,Items 7,Supplier C,1200.0,2015-07-27 00:00:00,suppliers.xlsx,suppliers_2013
+7890,Widget 7,Supplier C,1200.0,2014-07-27 00:00:00,suppliers.xlsx,suppliers_2014
+7890,Widget 7,Supplier C,1200.0,7/27/2016,suppliers_2016.csv,
